@@ -6,5 +6,9 @@ header {
     background-color: rgb(207, 228, 221);
     text-align: center;
 }
+input, button {
+    display: block;
+    margin-bottom: 10px;
+}
 
 
