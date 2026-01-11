@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(149, 218, 195);
+}
+header {
+    background-color: rgb(207, 228, 221);
+    text-align: initial;
+}
+    header h1 {
+        text-align: initial;
+    }
